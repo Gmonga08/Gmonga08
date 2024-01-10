@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [www.github.com/Gmonga08](www.github.com/Gmonga08)
+- 👨‍💻 All of my projects are available at[github.com/Gmonga08](github.com/Gmonga08)
 
 - 💬 Ask me about **Angular, Django,etc**
 
